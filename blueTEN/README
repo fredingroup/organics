@@ -1,0 +1,9 @@
+Naming Abbreviations:
+
+1a = TES-aceanthracene
+1b = TBDMS-aceanthracene
+2a = TES-acetetracene
+2b = TIPS-acetetracene
+
+
+Structures were optimized at CAM-B3LYP-D3(BJ)/6-311++g(d,p) level of theory with either a toluene or chloroform polarizable continuum model as it is implemented in Gaussian16. Singlet geometries were optimized with restricted CAM-B3LYP while triplets were optimized with unrestricted CAM-B3LYP. 
